@@ -20,7 +20,7 @@ setup(
     name='ufonet',
     version='1.8',
     license='GPLv3',
-    author_email='epsylon@riseup.net',
+    author_email='lailachaoday@gmail.com,
     author='psy',
     description='Denial of Service Toolkit',
     url='https://ufonet.03c8.net/',
